@@ -2,11 +2,13 @@
     color: green;
 }
 
+.strong {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: green;
+}
+
 #container {
     text-align: center;
     margin: 10% auto;
-}
-
-button {
-    /* border: none; */
 }
